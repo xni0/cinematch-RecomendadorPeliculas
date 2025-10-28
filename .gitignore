@@ -1,0 +1,13 @@
+# Archivos compilados de Java
+*.class
+/bin/
+/target/
+
+# Archivos de configuración de Eclipse
+.settings/
+.classpath
+.project
+
+# Otros
+.metadata/
+*.log
