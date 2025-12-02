@@ -18,6 +18,9 @@
     <h1>CineMatch</h1>
     <p>Recomendador de películas con MVC + DAO + PRG.</p>
     <p>
+    <!-- Cuando el usuario le da click al botón, el navegador lee la dirección
+    	y hace la petición GET a CineController -->
+    
       <a class="btn" href="<c:url value='/cine?op=HOME'/>">Entrar</a>
     </p>
   </div>
